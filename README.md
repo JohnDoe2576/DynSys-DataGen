@@ -11,4 +11,4 @@ This code generates a Skyline signal (aka, **A**mplitude-modulated **P**seudo **
 
 The following image shows the APRBS signal (red) used to excite a Van Der Pol oscillator and its response (blue).
 
-<img alt='Excited-VanDerPol-Oscillator' src='../test-2025-01-11/assets/VanDerPol-Dataset.png'>
+<img alt='Excited-VanDerPol-Oscillator' src='./assets/VanDerPol-Dataset.png'>
